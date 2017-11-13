@@ -11,4 +11,4 @@ IXD101 Interaction Design Fundamentals
 
 History of Type
 ---------------
-- [History 1](https://loosecookie.github.io/john_baskerville/history1.html)
+- [history 1](https://loosecookie.github.io/john_baskerville/history1.html)
