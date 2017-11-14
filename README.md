@@ -12,3 +12,4 @@ John Baskerville
 History of Type
 ---------------
 - [history 1](https://loosecookie.github.io/john_baskerville/history1.html)
+- [history 2](https://loosecookie.github.io/john_baskerville/history2.html)
