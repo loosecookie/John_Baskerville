@@ -11,6 +11,8 @@ Added a simple, unordered, nested list to the end of The Typeface section of the
 Added the navigation and linked each section through anchors on the John Baskerville page. As well as adding external links to personal pages.
 - [baskerville 4](https://loosecookie.github.io/john_baskerville/baskerville4.html)
 Changed the nested list into a table on the John Baskerville page.
+- [baskerville 5](https://loosecookie.github.io/john_baskerville/baskerville5.html)
+Added 3 images to the John Baskerville document.
 
 
 History of Type
