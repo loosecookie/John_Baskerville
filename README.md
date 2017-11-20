@@ -21,3 +21,5 @@ History of Type
 Marked up another plain text file on The History of Type.
 - [history 2](https://loosecookie.github.io/john_baskerville/history2.html) <br>
 Added a more complex nested list to the end of The History of Type.
+- [history 3](https://loosecookie.github.io/john_baskerville/history3.html) <br>
+Changed the content in list to a table form.
