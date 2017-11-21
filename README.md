@@ -23,3 +23,5 @@ Marked up another plain text file on The History of Type.
 Added a more complex nested list to the end of The History of Type.
 - [history 3](https://loosecookie.github.io/john_baskerville/history3.html) <br>
 Changed the content in list to a table form.
+- [history 4](https://loosecookie.github.io/john_baskerville/history4.html) <br>
+Added images of each designer below each heading.
