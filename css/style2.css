@@ -30,7 +30,7 @@ body {
 
 h1, h2, h3 {
     font-weight: normal; /*--- rather than bold font ---*/
-    color: #c06;
+    color: #4169E1;
     text-align: center;
 }
 
@@ -69,7 +69,7 @@ a {
 }
 
 a:hover {
-    color: #006341;
+    color: #4169E1;
     border-bottom: 1px dotted;
 }
 
@@ -106,7 +106,7 @@ nav a:visited {
 
 nav a:hover {
     border-bottom: none;
-    color: #c06
+    color: #4169E1
 }
 
 /*--------------------- IMAGES ----------------------*/
