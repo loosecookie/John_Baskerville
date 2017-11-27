@@ -64,12 +64,12 @@ blockquote cite {
 /*------------------- LINKS ----------------------------*/
 
 a {
-    color: #fff;
+    color: #777;
     text-decoration: none;
 }
 
 a:hover {
-    color: #006341;
+    color: #c06;
     border-bottom: 1px dotted;
 }
 
