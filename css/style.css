@@ -139,7 +139,8 @@ footer hr {
     margin-bottom: 3em;
 }
 
-/*--------------------- TABLE -----------------*/
+/*--------------------- TABLE ----------------------*/
+
 table {
     margin: auto;
     display: table;
@@ -162,7 +163,7 @@ th {
 }
 
 th, td {
-    padding: .6em;
+    padding: 0.6em;
 }
 
 table, td {
