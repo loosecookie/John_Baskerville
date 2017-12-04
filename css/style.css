@@ -13,13 +13,14 @@ header {
 header h2 {
     font-style: italic;
     font-size: 2.2em;
+    margin-top: 0.5em;
     color: #333;
 }
 
 body {
     width: 75%;
     max-width: 600px;
-    font-family: Georgia, 'Times New Roman' serif;
+    font-family: 'Libre Baskerville', serif;
     margin: auto; /*--- centered on screen ---*/
     background: #f0f0f0; /*--- off white for easier reading ---*/
     color: #333; 
@@ -37,6 +38,11 @@ h1, h2, h3 {
 p, li, blockquote {
     margin-bottom: 1.5em; /*--- spacing between each paragraph ---*/
     line-height: 1.5; /*--- spacing between lines ---*/
+}
+
+p, footer {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
 }
 
 h1 {
@@ -58,7 +64,7 @@ blockquote {
 }
 
 blockquote cite {
-    font-size: 0.75em;
+    font-size: 0.6em;
 }
 
 /*------------------- LINKS ----------------------------*/
