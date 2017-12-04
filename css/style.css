@@ -138,3 +138,34 @@ footer+small {
 footer hr {
     margin-bottom: 3em;
 }
+
+/*--------------------- TABLE -----------------*/
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding: .6em;
+}
+
+table, td {
+    background: #BFBEBB;
+    border: 1px solid #fff;
+}
