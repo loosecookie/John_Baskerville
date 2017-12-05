@@ -1,0 +1,69 @@
+/*------------------- CSS RESET -----------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size; 100%;
+    line-height: 1em;
+}
+
+header {
+    margin: 6em 0} /*--- page margin, works clockwise ---*/
+
+body {
+    width: 75%;
+    max-width: 600px;
+    font-family: 'Libre Baskerville', serif;
+    margin: auto; /*--- centered on screen ---*/
+    background: #f0f0f0; /*--- off white for easier reading ---*/
+    color: #333; 
+    line-height: 1.8em;
+}
+
+/*------------------ TYPOGRAPHY ------------------------*/
+
+h1, h2, h3 {
+    font-weight: normal; /*--- rather than bold font ---*/
+    color: #333;
+}
+
+h1 {
+    font-size: 4.5em;
+    margin-top: .2em;
+    margin-bottom: 0.2em; /*--- spacing at top of page ---*/
+}
+
+h2 {
+    font-size: 1.8em;
+    font-style: italic;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 1.1em;
+}
+
+p {
+    margin-bottom: 1.5em; /*--- spacing between each paragraph ---*/
+    line-height: 1.5; /*--- spacing between lines ---*/
+    font-size: .9em;
+}
+
+p #intro {
+    margin-bottom: 1.5em; /*--- spacing between each paragraph ---*/
+    line-height: 1.5; /*--- spacing between lines ---*/
+    font-size: 1.1em;
+}
+
+blockquote {
+    padding: 1em 0 2em 0;
+    font-size: .6em;
+    line-height: 1.4em;
+    color: #777;
+    hanging-punctuation: first;
+    text-indent: -0.5em;
+}
+
+blockquote cite {
+    font-size: 0.6em;
+}
