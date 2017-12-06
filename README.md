@@ -31,3 +31,7 @@ Added images of each designer below each heading.
 Adding CSS to the HTML in order to present the information more effectively.
 - [history 6](https://loosecookie.github.io/john_baskerville/history6.html) <br>
 Changing fonts to fit accordingly with the typographer.
+
+Typographic Exercise
+--------------------
+- [Typographic Exercise](https://loosecookie.github.io/john_baskerville/typographicexercise1.html) <br>
