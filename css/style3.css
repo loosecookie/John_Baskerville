@@ -62,7 +62,7 @@ p {
     margin: 0.05em 0.05em 0 0;
 }
 
-.indent p {
+#indent p {
   text-indent: 2em;
 } 
 
@@ -80,10 +80,10 @@ blockquote cite {
     font-size: 0.7em;
 }
 
-#two {
+#two, #three h3, #three p {
     font-family: 'Open Sans', sans-serif;
 }
 
-#three {
+#three h1, #three h2, #three blockquote {
     font-family: 'Arvo', serif;
 }
