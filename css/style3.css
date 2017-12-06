@@ -15,8 +15,8 @@ body {
     max-width: 600px;
     font-family: 'Libre Baskerville', serif;
     margin: auto; /*--- centered on screen ---*/
-    background: #f0f0f0; /*--- off white for easier reading ---*/
-    color: #333; 
+    background: #fff; /*--- off white for easier reading ---*/
+    color: #000; 
     line-height: 1.8em;
 }
 
@@ -49,21 +49,41 @@ p {
     font-size: .9em;
 }
 
-p #intro {
+.intro {
     margin-bottom: 1.5em; /*--- spacing between each paragraph ---*/
     line-height: 1.5; /*--- spacing between lines ---*/
     font-size: 1.1em;
 }
 
+.dropcap {
+    float: left;
+    font-size: 4em;
+    line-height:0.7;
+    margin: 0.05em 0.05em 0 0;
+}
+
+.indent p {
+  text-indent: 2em;
+} 
+
 blockquote {
     padding: 1em 0 2em 0;
-    font-size: .6em;
+    font-size: 1.15em;
     line-height: 1.4em;
     color: #777;
     hanging-punctuation: first;
     text-indent: -0.5em;
+    font-style: italic;
 }
 
 blockquote cite {
-    font-size: 0.6em;
+    font-size: 0.7em;
+}
+
+#two {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#three {
+    font-family: 'Arvo', serif;
 }

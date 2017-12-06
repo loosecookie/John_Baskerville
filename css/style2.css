@@ -61,6 +61,25 @@ blockquote cite {
     font-size: 0.75em;
 }
 
+#jenson {
+    font-family: "adobe-jenson-pro",serif;
+}
+
+#garamond {
+  font-family: "adobe-garamond-pro",serif;
+}
+
+#caslon {
+    font-family: "adobe-caslon-pro",serif;
+}
+
+#baskerville {
+    font-family: "baskerville-urw",serif;
+}
+
+#bodoni {
+    font-family: "bodoni-urw",serif;
+}
 /*------------------- LINKS ----------------------------*/
 
 a {

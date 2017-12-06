@@ -29,3 +29,5 @@ Changed the content in list to a table form.
 Added images of each designer below each heading.
 - [history 5](https://loosecookie.github.io/john_baskerville/history5.html) <br>
 Adding CSS to the HTML in order to present the information more effectively.
+- [history 6](https://loosecookie.github.io/john_baskerville/history6.html) <br>
+Changing fonts to fit accordingly with the typographer.
