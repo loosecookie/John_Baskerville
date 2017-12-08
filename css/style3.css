@@ -62,9 +62,13 @@ p {
     margin: 0.05em 0.05em 0 0;
 }
 
-#indent p {
-  text-indent: 2em;
-} 
+hr {
+    margin: 4em, 0;
+    height: 1px;
+    background-color: #ff0066;
+    color: #ff0066;
+    border: 0 none;
+}
 
 blockquote {
     padding: 1em 0 2em 0;
@@ -83,6 +87,9 @@ blockquote cite {
 #two, #three h3, #three p {
     font-family: 'Open Sans', sans-serif;
 }
+
+#two p+p {margin-bottom: 0em;}
+#two p+p+p {text-indent:1.5em}
 
 #three h1, #three h2, #three blockquote {
     font-family: 'Arvo', serif;
